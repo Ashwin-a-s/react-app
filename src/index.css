@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.exBtn{
+    @apply px-4 py-3 bg-gray-200 text-red-400 rounded-md hover:bg-gray-400 hover:text-red-600 font-mono text-lg
+}
